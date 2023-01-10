@@ -1,5 +1,5 @@
 title: Alt. Growth Names
-description: Replaces the level 2/3/MAX growth ability suffixes with Ra/Ga/Za, and removes the suffix on level 1 growth abilities.
+description: Replaces the level 2/3/MAX growth ability suffixes with ra/ga/za, and removes the suffix on level 1 growth abilities.
 assets:
 - name: msg/jp/sys.bar
   multi:
